@@ -1,4 +1,4 @@
 # Django-Drug-Store
-Buy, sell medicines 
+Buy, Sell medicines 
 <br>
-### at low cost
+At low cost 💸
