@@ -1,3 +1,4 @@
 # Django-Drug-Store
-Buy, sell medicines 
-for free
+Buy, Sell medicines 
+<br>
+At low cost 💸
